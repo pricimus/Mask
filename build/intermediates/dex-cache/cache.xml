@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/edprice/.android/build-cache/96b398cc1ae0550eb45396372cd8e4196bd1e886/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be3ee691bc81fe20ca3d93726fed5ae5dc2bce5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_491ae4d112d5c64e6f8d1d8bbbf519e1920a0aec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edprice/.android/build-cache/e88f44f66c6423f7f60781d4032214b4f212f10a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_492fe42d0040c3d18f73520fd118ad4349fde940/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edprice/.android/build-cache/dd98509af4a827852ac8c27d184c942b5eacc05f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b98c78c1bae5bb810604fb4ccabcfaa95d89ddc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edprice/.android/build-cache/36b6129f770d5c2fe9871345ace0ea4debc45261/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_442c4c54a401c18292d0bc3404b5d809bdf58fab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edprice/.android/build-cache/7a0213e783bee3408fcd035be8649b0d7d5613b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e560000a7340e434262b27ef0226f9087019874f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edprice/.android/build-cache/9e0a6224c3d2a452978259b4892723c0106edc2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40f40849ba05b1f88b892356219a610435096799/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="378eb947ae26e8bce037f4d522f7cce36bce5d74">
+        <dex dex="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_182b55719c60837f162c238460e937ad8b38f525/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edprice/.android/build-cache/1cdf1887a59cc15761d842461e484d4831bfea44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_857994544963efe444bb9c32b6e8e8b4b9f5af91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edprice/.android/build-cache/b480943252788627d1ffb90a425decd8173fc93c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bad7afae4eb946c43f7c857ebfe90999617a4f22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edprice/.android/build-cache/2924b41fb791653c6ff8775018bc14d58392831b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/edprice/development/source/greydog/Mask/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b3b44b1162be2d22eae6c273da206e5b716f253/classes.dex" />
+    </item>
+
+</items>
